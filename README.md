@@ -9,7 +9,7 @@
         <li><a href="https://meme.hibiel.repl.co" target="_blank">meme</a></li>
         <li><a href="https://animatedcrimsonconfig.hibiel.repl.co" target="_blank">musica trab</a>
         <li><a href="https://cinema-teste.hibiel.repl.co/" target="_blank">site cinema</a></li>
-        <li><a href="primeiro-organizado-grid.hibiel.repl.co" target="_blank">site de teste</a></li>
+        <li><a href="[primeiro-organizado-grid.hibiel.repl.co](https://primeiro-organizado-grid.hibiel.repl.co/)" target="_blank">site de teste</a></li>
         </li>
       </ul>
 </div>
